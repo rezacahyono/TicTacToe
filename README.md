@@ -21,9 +21,9 @@ Aplikasi permainan klasik Tic Tac Toe (juga dikenal dengan nama noughts and cros
 
 |   |   |
 |---|---|
-|![image1](screenshot/1.jpeg)   |![image2](screenshot/2.jpeg)   |
-|![image3](screenshot/3.jpeg)   |![image4](screenshot/4.jpeg)   |
-|![image5](screenshot/5.jpeg)   |   |
+|![image1](Screenshot/1.jpeg)   |![image2](Screenshot/2.jpeg)   |
+|![image3](Screenshot/3.jpeg)   |![image4](Screenshot/4.jpeg)   |
+|![image5](Screenshot/5.jpeg)   |   |
 
 ## Kontribusi
 Kontribusi diterima dengan baik. Jika Anda ingin berkontribusi pada aplikasi ini, silakan buat pull request pada repositori GitHub.
