@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="host">Host</string>
+    <string name="discover">Discover</string>
+    <string name="waiting_host">Hosting…</string>
+    <string name="waiting_discover">Discover…</string>
+
+    <string name="local_player">You\'re player %s</string>
+    <string name="your_turn">Your turn!</string>
+    <string name="waiting_turn">Waiting for player %s…</string>
+
+    <string name="home">Home</string>
+    <string name="game">Game Room</string>
+    <string name="new_game">New Game!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="player_won">Player %s won!</string>
+    <string name="player_lose">It\'s a tie!</string>
+
+    <string name="back">Back</string>
+    <string name="stop">Stop</string>
+</resources>
